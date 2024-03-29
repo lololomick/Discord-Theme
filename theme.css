@@ -689,22 +689,6 @@
      background: transparent;
      font-weight: var(--font-weight-semibold);
    }
-   #app-mount .childWrapper_a6ce15 img {
-    display: none;
-  }
-  #app-mount .childWrapper_a6ce15 {
-    background-image: url("https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-  #app-mount .childWrapper_a6ce15 {
-    background-image: url("https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-
    #app-mount .circleIconButton__05cf2 {
      background: transparent;
    }
@@ -959,7 +943,6 @@
      box-sizing: border-box;
      background: var(--bg-main);
      padding: 8px 14px;
-     margin-bottom: 12px;
      border-radius: var(--rounded) 0 0 var(--rounded);
      border: 1px solid var(--border-high);
      border-inline: none;
@@ -3228,8 +3211,8 @@
    #app-mount .searchBar__310d8 {
      margin: 0;
      position: absolute;
-     bottom: 12px;
-     right: 12px;
+     bottom: 0px;
+     right: 0px;
      left: 0;
      z-index: 1;
      height: var(--bottombar-height);
