@@ -213,7 +213,7 @@
    .app_de4237 {
      background: var(--bg-main);
    }
-   
+
    .bg__12180 {
      background: transparent;
    }
@@ -937,7 +937,7 @@
    
    #app-mount .panels__58331 {
      background: transparent;
-     border: none;
+     border-top: 1px solid var(--border-high);
    }
    #app-mount .panels__58331 > .container_debb33 {
      box-sizing: border-box;
@@ -1583,7 +1583,6 @@
    }
    
    #app-mount .form_d8a4a1 {
-     margin: 0 12px 12px 0;
      padding: 8px 8px 8px 14px;
      background: var(--bg-main);
      min-height: var(--bottombar-height);
