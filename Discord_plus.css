@@ -13,7 +13,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/VzYNI0O.png);
+  --dplus-backdrop: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75bff394-4f86-45a8-a923-e26223aa74cb/dddix97-33a6ad5b-17cd-4948-a328-2dc01c9dc8d5.png/v1/fill/w_1280,h_720,q_80,strp/discord_wallpaper_by_nuagfx_dddix97-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNzViZmYzOTQtNGY4Ni00NWE4LWE5MjMtZTI2MjIzYWE3NGNiXC9kZGRpeDk3LTMzYTZhZDViLTE3Y2QtNDk0OC1hMzI4LTJkYzAxYzlkYzhkNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SFH0HkIZxc2yQR_O0DAMxM-9RdLDLgF5WDQw_krQ2UU);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
